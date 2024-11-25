@@ -1,1 +1,1 @@
-Identification of breast cancer tumor
+Projects worked during the master of professional studies at Northeastern University
