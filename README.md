@@ -1,1 +1,1 @@
-Projects worked during the master of professional studies at Northeastern University
+Projects worked during the Master of professional studies in Analytics at Northeastern University
